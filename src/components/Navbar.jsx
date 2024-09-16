@@ -43,7 +43,7 @@ const Navbar = () => {
                 {NAVIGATION_LINKS.map((item, index) => (
                   <li key={index}>
                     <a
-                      className="text-sm hover:text-green-500"
+                      className="text-base hover:text-green-500"
                       href={item.href}
                       onClick={(e) => handleLinkClick(e, item.href)}
                     >
@@ -80,7 +80,7 @@ const Navbar = () => {
             <ul className="ml-4 mt-4 flex flex-col pag-4 backdrop-blur-md">
                 {NAVIGATION_LINKS.map((item, index) => (
                     <li key={index}>
-                        <a href={item.href} className="block w-full text-lg hover:text-green-500" onClick={(e) => handleLinkClick(e, item.href)}>
+                        <a href={item.href} className="block w-full text-lg" onClick={(e) => handleLinkClick(e, item.href)}>
                             {item.label}
                         </a>
                     </li>
