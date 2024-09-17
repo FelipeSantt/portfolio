@@ -17,7 +17,7 @@ const Hero = () => {
         </div>
         <div className="w-full md:w-1/2 lg:p-8 ">
             <div className="flex justify-center">
-                <img src={felpImg} width={500} height={500} alt="Felipe Santos" className="rounded-3xl"/>
+                <img src={felpImg} width={550} height={550} alt="Felipe Santos" className="rounded-3xl"/>
             </div>
         </div>
     </section>
