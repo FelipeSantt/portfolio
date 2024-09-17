@@ -95,7 +95,7 @@ export const EDUCATION = [
     institution: "Digitall College",
     duration: "Agosto 2023 - Agosto 2024",
     description:
-      "Curso de Desenvolvimento Web, onde colocamos em prática conceitos e criamos códigos em HTML, CSS, JavaScript, React, Node.js, MySQL.",
+      "Curso de Desenvolvimento Web, onde colocamos em prática conceitos e criamos códigos usando HTML, CSS, JavaScript, React, Node.js, MySQL.",
   },
 ];
 
