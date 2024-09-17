@@ -47,9 +47,9 @@ export const PROJECTS = [
   },
   {
     id: 3,
-    name: "Landing Page RC Toldos",
+    name: "RC Toldos",
     description:
-      "Landing Page desenvolvida com HTML, CSS e JavaScript. O projeto visa a captação de clientes por meio dos produtos e contato com a empresa através de suas mídias digitais.",
+      "Landing Page desenvolvida com HTML, CSS e JavaScript.O projeto visa a captação de clientes por meio dos produtos e contato com a empresa através de suas mídias digitais.",
     image: projectImage3,
     githubLink: "https://siterctoldos.netlify.app",
   },
