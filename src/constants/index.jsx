@@ -39,19 +39,19 @@ export const PROJECTS = [
   },
   {
     id: 2,
-    name: "Carrinho de compras",
-    description:
-      "Pagina desenvolvida com react. A página mostra um carrinho de compras de uma plataforma de vendas.",
-    image: projectImage2,
-    githubLink: "https://cart-pagbank.netlify.app",
-  },
-  {
-    id: 3,
     name: "RC Toldos",
     description:
       "Landing Page desenvolvida com HTML, CSS e JavaScript.O projeto visa a captação de clientes por meio dos produtos e contato com a empresa através de suas mídias digitais.",
     image: projectImage3,
     githubLink: "https://siterctoldos.netlify.app",
+  },
+  {
+    id: 3,
+    name: "Carrinho de compras",
+    description:
+      "Pagina desenvolvida com react. A página mostra um carrinho de compras de uma plataforma de vendas.",
+    image: projectImage2,
+    githubLink: "https://cart-pagbank.netlify.app",
   },
 ];
 
