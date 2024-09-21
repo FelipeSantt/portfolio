@@ -17,7 +17,7 @@ import { BiLogoPostgresql } from "react-icons/bi";
 export const NAVIGATION_LINKS = [
   { label: "Projetos", href: "#projects" },
   { label: "Habilidades", href: "#skills" },
-  { label: "Educação", href: "#education" },
+  { label: "Formação", href: "#education" },
   { label: "Contatos", href: "#contact" },
 ];
 
